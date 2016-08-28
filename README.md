@@ -7,4 +7,5 @@ If you would like to submit a summary of some work you've recently read/reviewed
 
 Papers:
 
-- 
+- [Scene Completion Using Millions of Photographs.](papers/1.md)
+- [Microsoft COCO: Common Objects in Context.](papers/2.md)
