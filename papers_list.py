@@ -41,6 +41,7 @@ for k in areas.keys():
     for p in areas[k]:
         with open(p) as f:
             title = f.readline()[3:].strip()
-            print("- [{0}]({1})".format(title, p))
+            paper_no = p.split('/')[-1][:-3]
+            print("{2}. [{0}]({1})".format(title, p, paper_no))
     
     print()
