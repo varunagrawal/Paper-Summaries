@@ -10,6 +10,8 @@ If you would like to submit a summary of some work you've recently read/reviewed
 2. [The Autonomous City Explorer (_ACE_) Project - Mobile Robot Navigation in Highly Populated Urban Environments](papers/robotics/2.md)
 3. [Classifying Human-Robot Interaction: An Updated Taxonomy](papers/robotics/3.md)
 
+## Machine-Learning
+
 ## Computer-Vision
 1. [Scene Completion Using Millions of Photographs](papers/computer-vision/1.md)
 2. [Microsoft COCO: Common Objects in Context](papers/computer-vision/2.md)
@@ -54,5 +56,7 @@ If you would like to submit a summary of some work you've recently read/reviewed
 41. [CNN-RNN: A Unified Framework for Multi-label Image Classification](papers/computer-vision/41.md)
 42. [Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis](papers/computer-vision/42.md)
 43. [Beyond Skip Connections: Top-Down Modulations for Object Detection](papers/computer-vision/43.md)
-
-## Machine-Learning
+44. [Show and Tell: A Neural Image Caption Generator](papers/computer-vision/44.md)
+45. [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](papers/computer-vision/45.md)
+46. [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning](papers/computer-vision/46.md)
+47. [Context-aware Captions from Context-agnostic Supervision](papers/computer-vision/47.md)
