@@ -5,13 +5,6 @@ Most of the papers here will be the ones I have encountered as a part of my rese
 
 If you would like to submit a summary of some work you've recently read/reviewed, please feel free to drop me a Pull Request.
 
-## Robotics
-1. [HERB: A home exploring robotic butler](papers/robotics/1.md)
-2. [The Autonomous City Explorer (_ACE_) Project - Mobile Robot Navigation in Highly Populated Urban Environments](papers/robotics/2.md)
-3. [Classifying Human-Robot Interaction: An Updated Taxonomy](papers/robotics/3.md)
-
-## Machine-Learning
-
 ## Computer-Vision
 1. [Scene Completion Using Millions of Photographs](papers/computer-vision/1.md)
 2. [Microsoft COCO: Common Objects in Context](papers/computer-vision/2.md)
@@ -60,3 +53,12 @@ If you would like to submit a summary of some work you've recently read/reviewed
 45. [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](papers/computer-vision/45.md)
 46. [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning](papers/computer-vision/46.md)
 47. [Context-aware Captions from Context-agnostic Supervision](papers/computer-vision/47.md)
+48. [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](papers/computer-vision/48.md)
+
+## Robotics
+1. [HERB: A home exploring robotic butler](papers/robotics/1.md)
+2. [The Autonomous City Explorer (_ACE_) Project - Mobile Robot Navigation in Highly Populated Urban Environments](papers/robotics/2.md)
+3. [Classifying Human-Robot Interaction: An Updated Taxonomy](papers/robotics/3.md)
+
+## Machine-Learning
+1. [Methods for Interpreting and Understanding Deep Neural networks](papers/machine-learning/1.md)
