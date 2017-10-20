@@ -1,3 +1,10 @@
+"""
+Script to generate index of papers for each area.
+Usage:
+    # In the root of the repo
+    `python papers_list.py`
+"""
+
 import os
 import os.path as osp
 import re
@@ -50,8 +57,9 @@ def generate_index(area, papers):
         for paper in papers:
             with open(paper) as f:
                 title = f.readline()[3:].strip()
+                paper_link = osp.basename(paper)
                 paper_no = paper.split('/')[-1][:-3]
-                op.write("{2}. [{0}]({1})\n".format(title, paper, paper_no))
+                op.write("{2}. [{0}]({1})\n".format(title, paper_link, paper_no))
 
 
 def main():
